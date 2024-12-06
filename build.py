@@ -12,7 +12,7 @@ def get_personal_data():
                 </p>
 
                 <p>
-                    My research is focused on control and optimization methods and applications. I am particularly interested in applications in renewable energy such airborne wind energy systems.
+                    My research is focused on control and optimization, with a particular interest in n applications in airborne wind energy systems.
                 </p>
                                   <a href="https://jdeschut.github.io/assets/pdf/deschutter_cv.pdf" target="_blank" style="margin-right: 15px"><i class="fa fa-address-card fa-lg"></i> CV</a>
                     <a href="mailto:{email}" style="margin-right: 15px"><i class="far fa-envelope-open fa-lg"></i> Mail</a>
