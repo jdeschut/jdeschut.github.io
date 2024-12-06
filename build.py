@@ -3,8 +3,6 @@ from pybtex.database.input import bibtex
 def get_personal_data():
     name = ["Jochem", "De Schutter"]
     email = "jochem.de.schutter@imtek.uni-freiburg.de"
-    github = "jdeschutter"
-    linkedin = "jochem-de-schutter"
     bio_text = f"""
                 <p>
                     I am currently a postdoctoral researcher at the  <a href="https://syscop.de" target="_blank">Systems Control and Optimization Laboratory</a> at the University of Freiburg, Germany.
@@ -15,7 +13,7 @@ def get_personal_data():
                 </p>
 
                 <p>For any inquiries, feel free to reach out to me via mail!</p>
-                                  <a href="https://rudolfreiter.github.io/assets/pdf/reiter_cv2.pdf" target="_blank" style="margin-right: 15px"><i class="fa fa-address-card fa-lg"></i> CV</a>
+                                  <a href="https://jdeschut.github.io/assets/pdf/deschutter_cv.pdf" target="_blank" style="margin-right: 15px"><i class="fa fa-address-card fa-lg"></i> CV</a>
                     <a href="mailto:{email}" style="margin-right: 15px"><i class="far fa-envelope-open fa-lg"></i> Mail</a>
                     <a href="https://scholar.google.de/citations?user=6VIKKXgAAAAJ&hl=de" target="_blank" style="margin-right: 15px"><i class="fa-solid fa-book"></i> Scholar</a>
                     <a href="https://github.com/jdeschut/" target="_blank" style="margin-right: 15px"><i class="fab fa-github fa-lg"></i> Github</a>
