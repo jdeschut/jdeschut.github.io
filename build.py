@@ -11,8 +11,6 @@ def get_personal_data():
                     Before starting my doctoral research, I studied Mechanical Engineering at KU Leuven university in Belgium, including an Erasmus stay at ETH Zurich.
                     After obtaining my engineering degree, I obtained a Master's Degree in Philosophy at KU Leuven as well.
                 </p>
-
-                <p>For any inquiries, feel free to reach out to me via mail!</p>
                                   <a href="https://jdeschut.github.io/assets/pdf/deschutter_cv.pdf" target="_blank" style="margin-right: 15px"><i class="fa fa-address-card fa-lg"></i> CV</a>
                     <a href="mailto:{email}" style="margin-right: 15px"><i class="far fa-envelope-open fa-lg"></i> Mail</a>
                     <a href="https://scholar.google.de/citations?user=6VIKKXgAAAAJ&hl=de" target="_blank" style="margin-right: 15px"><i class="fa-solid fa-book"></i> Scholar</a>
