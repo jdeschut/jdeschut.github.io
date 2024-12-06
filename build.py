@@ -6,10 +6,10 @@ def get_personal_data():
     bio_text = f"""
                 <p>
                     I am currently a postdoctoral researcher at the  <a href="https://syscop.de" target="_blank">Systems Control and Optimization Laboratory</a> at the University of Freiburg, Germany.
-                    My research centers around on control and optimization with a focus on renewable energy systems and, in particular, airborne wind energy.
+                    My research centers around control and optimization with a focus on renewable energy systems and, in particular, airborne wind energy systems.
                     In January 2024, I defended my PhD thesis with the title "Periodic optimal control methods for nonlinear energy conversion systems", supervised by Prof. Dr. Moritz Diehl.
                     Before starting my doctoral research, I studied Mechanical Engineering at KU Leuven university in Belgium, including an Erasmus stay at ETH Zurich.
-                    After obtaining my engineering degree, I obtained a Master's Degree in Philosophy at the same University as well.
+                    After obtaining my engineering degree, I obtained a Master's Degree in Philosophy at KU Leuven as well.
                 </p>
 
                 <p>For any inquiries, feel free to reach out to me via mail!</p>
